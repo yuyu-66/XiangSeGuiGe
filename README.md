@@ -1,6 +1,7 @@
 自用及帮人做的源 
 =
-### 全部导入(小说48,漫画7--如有失效可留言)：
+用魔法可解决导入失败问题
+### 全部导入：（小说48,漫画7）
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说：
