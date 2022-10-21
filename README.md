@@ -6,6 +6,8 @@
 
 1.小说：
 -
+#### x-bbtxt8
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/bbtxt8/x-bbtxt8.xbs
 #### x-云中书库
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YunZhongShuKu/x-YunZhongShuKu.xbs
 #### x-默默中文网（目录加载很慢，搜索有10s限制，建议在发现中搜索冷门小说用）
