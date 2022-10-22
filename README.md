@@ -3,10 +3,10 @@
 用魔法可解决导入失败问题，或链接前加下方前缀
 
 	https://ghproxy.com/
-### 全部导入：（小说49,漫画7）
+### 全部导入：（小说49,漫画7，索引2）
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
-1.小说：
+1.小说源：
 -
 #### x-bbtxt8
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/bbtxt8/x-bbtxt8.xbs
@@ -106,8 +106,15 @@
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/QuShuWang/x-QuShuWang.xbs
 #### x-腐书网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/FuShuWang/x-FuShuWang.xbs
+	
+2.索引源（评论源，无法阅读）：
+-
+#### x-微信读书（只能看评论用）
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/sy/WeiXinDuShu/x-WeiXinDuShu.xbs
+#### x-优书网（只能看评论用）
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/sy/YouShuWang/x-YouShuWang.xbs
 
-2.漫画：
+3.漫画源：
 -
 #### x-666漫画
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/666ManHua/x-666ManHua.xbs
