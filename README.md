@@ -1,6 +1,8 @@
 自用及帮人做的源 
 =
-用魔法可解决导入失败问题，或链接前加前缀https://ghproxy.com/
+用魔法可解决导入失败问题，或链接前加下方前缀
+
+	https://ghproxy.com/
 ### 全部导入：（小说49,漫画7）
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
