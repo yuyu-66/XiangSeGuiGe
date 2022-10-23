@@ -1,4 +1,4 @@
-写着玩的、禁传、禁fork
+自学练手玩的、禁传、禁fork
 =
 ### 加速前缀
 	https://ghproxy.com/
