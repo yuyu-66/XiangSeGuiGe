@@ -1,7 +1,6 @@
-自用及帮人做的源 
+自己学习用、禁传、禁fork
 =
-用魔法可解决导入失败问题，或链接前加下方前缀
-
+### 加速前缀
 	https://ghproxy.com/
 ### 全部导入：（小说49，漫画7，索引2）
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
@@ -12,7 +11,7 @@
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/bbtxt8/x-bbtxt8.xbs
 #### x-云中书库
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YunZhongShuKu/x-YunZhongShuKu.xbs
-#### x-默默中文网（目录加载很慢，搜索有10s限制，建议在发现中搜索冷门小说用）
+#### x-默默中文网（目录加载很慢，搜索有10s限制）
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/MoMoZhongWenWang/x-MoMoZhongWenWang.xbs
 #### x-哔哩轻小说
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BiLiQingXiaoShuo/x-BiLiQingXiaoShuo.xbs
@@ -22,7 +21,7 @@
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/FanQieXiaoShuo/x-FanQieXiaoShuo.xbs
 #### x-全本小说网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/QuanBenXiaoShuoWang/x-QuanBenXiaoShuoWang.xbs
-#### x-文库8（须登录或加cookie）
+#### x-文库8
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/WenKu8/x-WenKu8.xbs
 #### x-同人小说网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/TongRenXiaoShuoWang/x-TongRenXiaoShuoWang.xbs
@@ -32,7 +31,7 @@
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DiShuGe/x-DiShuGe.xbs
 #### x-大文学
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DaWenXue/x-DaWenXue.xbs
-#### x-久久小说
+#### x-久久小说 (wap版挂掉了，更新为PC版)
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/JiuJiuXiaoShuo/x-JiuJiuXiaoShuo.xbs
 #### x-当书网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DangShuWang/x-DangShuWang.xbs
@@ -52,7 +51,7 @@
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/56ShuKu/x-56ShuKu.xbs
 #### x-60文学
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/60WenXue/x-60WenXue.xbs
-#### x-69书吧
+#### x-69书吧 (梯)
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/69ShuBa/x-69ShuBa.xbs
 #### x-阿迪夫小说
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/ADiFuXiaoShuo/x-ADiFuXiaoShuo.xbs
@@ -98,7 +97,7 @@
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/TianTianKan/x-TianTianKan.xbs
 #### x-小说路上
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XiaoShuoLuShang/x-XiaoShuoLuShang.xbs
-#### x-玄幻文学
+#### x-玄幻文学 (梯)
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XuanHuanWenXue/x-XuanHuanWenXue.xbs
 #### x-一读小说
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YiDuXiaoShuo/x-YiDuXiaoShuo.xbs
@@ -120,7 +119,7 @@
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/666ManHua/x-666ManHua.xbs
 #### x-拷贝漫画
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/KaoBeiManHua/x-%EF%B8%8FKaoBeiManHua.xbs
-#### x-733动漫
+#### x-733动漫 (梯)
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/733DongMan/x-733DongMan.xbs
 #### x-包子漫画
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/BaoZiManHua/x-BaoZiManHua.xbs
