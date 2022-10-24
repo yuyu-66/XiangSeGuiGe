@@ -2,11 +2,13 @@
 =
 ### 加速前缀
 	https://ghproxy.com/
-### 全部导入：（小说49，漫画7，索引2）
+### 全部导入：（小说50，漫画7，索引2）
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说源：
 -
+#### x-知轩藏书
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/ZhiXuanCangShu/x-ZhiXuanCangShu.xbs
 #### x-bbtxt8
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/bbtxt8/x-bbtxt8.xbs
 #### x-云中书库
