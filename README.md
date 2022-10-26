@@ -97,9 +97,9 @@
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/ShuMiLou/x-ShuMiLou.xbs
 #### x-天天看
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/TianTianKan/x-TianTianKan.xbs
-#### x-小说路上
+#### x-小说路上（搜索暂时无了，正文丢字修复）
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XiaoShuoLuShang/x-XiaoShuoLuShang.xbs
-#### x-玄幻文学 (梯)
+#### x-玄幻文学 (梯，搜索暂时无了)
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XuanHuanWenXue/x-XuanHuanWenXue.xbs
 #### x-一读小说
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YiDuXiaoShuo/x-YiDuXiaoShuo.xbs
