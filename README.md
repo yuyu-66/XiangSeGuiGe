@@ -7,6 +7,8 @@
 
 1.小说源：
 -
+#### x-顶点pb98
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DingDianpb98/x-DingDianpb98.xbs
 #### x-知轩藏书
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/ZhiXuanCangShu/x-ZhiXuanCangShu.xbs
 #### x-bbtxt8
