@@ -7,6 +7,10 @@
 
 1.小说源：
 -
+#### x-御书网（修复正常搜索，但因软件bug发现页不可搜索）
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YuShuWang/x-YuShuWang.xbs
+#### x-巴巴鱼（修复正常搜索，但因软件bug发现页不可搜索）
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BaBaYu/x-BaBaYu.xbs
 #### x-顶点pb98（可正常搜索，但因软件bug发现页不可搜索）
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DingDianpb98/x-DingDianpb98.xbs
 #### x-知轩藏书
@@ -29,8 +33,6 @@
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/WenKu8/x-WenKu8.xbs
 #### x-同人小说网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/TongRenXiaoShuoWang/x-TongRenXiaoShuoWang.xbs
-#### x-御书网（修复正常搜索，但因软件bug发现页不可搜索）
-	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YuShuWang/x-YuShuWang.xbs
 #### x-帝书阁
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DiShuGe/x-DiShuGe.xbs
 #### x-大文学
@@ -63,8 +65,6 @@
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/AiHaoZhongWen/x-AiHaoZhongWen.xbs
 #### x-爱好中文手机版（目录读取慢）
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/AiHaoZhongWenH5/x-AiHaoZhongWenH5.xbs
-#### x-巴巴鱼
-	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BaBaYu/x-BaBaYu.xbs
 #### x-半夏小说 (梯)
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BanXiaXiaoShuo/x-BanXiaXiaoShuo.xbs
 #### x-笔趣阁5200
