@@ -7,7 +7,7 @@
 
 1.小说源：
 -
-#### x-顶点pb98（软件bug，发现页不可搜索）
+#### x-顶点pb98（可正常搜索，但因软件bug发现页不可搜索）
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DingDianpb98/x-DingDianpb98.xbs
 #### x-知轩藏书
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/ZhiXuanCangShu/x-ZhiXuanCangShu.xbs
@@ -29,7 +29,7 @@
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/WenKu8/x-WenKu8.xbs
 #### x-同人小说网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/TongRenXiaoShuoWang/x-TongRenXiaoShuoWang.xbs
-#### x-御书网
+#### x-御书网（修复正常搜索，但因软件bug发现页不可搜索）
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YuShuWang/x-YuShuWang.xbs
 #### x-帝书阁
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DiShuGe/x-DiShuGe.xbs
@@ -89,7 +89,7 @@
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/KuaiShuKu/x-KuaiShuKu.xbs
 #### x-苦瓜
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/KuGua/x-KuGua.xbs
-#### x-明月中文（软件bug，发现页不可搜索）
+#### x-明月中文（可正常搜索，但因软件bug发现页不可搜索）
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/MingYueZhongWen/x-MingYueZhongWen.xbs
 #### x-起舞中文
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/QiWuZhongWen/x-QiWuZhongWen.xbs
@@ -99,9 +99,9 @@
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/ShuMiLou/x-ShuMiLou.xbs
 #### x-天天看
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/TianTianKan/x-TianTianKan.xbs
-#### x-小说路上（正文丢字修复，搜索搞不定）
+#### x-小说路上（正文丢字修复，搜索挂了）
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XiaoShuoLuShang/x-XiaoShuoLuShang.xbs
-#### x-玄幻文学 (梯，搜索搞不定)
+#### x-玄幻文学 (梯，搜索挂了)
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XuanHuanWenXue/x-XuanHuanWenXue.xbs
 #### x-一读小说
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YiDuXiaoShuo/x-YiDuXiaoShuo.xbs
