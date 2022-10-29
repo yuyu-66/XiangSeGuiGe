@@ -7,6 +7,8 @@
 
 1.小说源：
 -
+#### x-棉花糖
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/MianHuaTang/x-MianHuaTang.xbs
 #### x-御书网（修复正常搜索，但因软件bug发现页不可搜索）
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YuShuWang/x-YuShuWang.xbs
 #### x-巴巴鱼（修复正常搜索，但因软件bug发现页不可搜索）
