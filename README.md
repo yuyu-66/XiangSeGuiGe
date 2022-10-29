@@ -2,7 +2,7 @@
 =
 ### 加速前缀
 	https://ghproxy.com/
-### 全部导入：（小说51，漫画7，索引2）
+### 全部导入：（小说52，漫画7，索引2）
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说源：
