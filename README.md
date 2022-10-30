@@ -73,8 +73,8 @@
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BiQuGepysmei/x-BiQuGepysmei.xbs
 #### x-笔趣趣
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BiQuQu/x-BiQuQu.xbs
-#### x-顶点小说(zizhiba)
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DingDianXiaoShuo(zizhiba)/x-DingDianXiaoShuo(zizhiba).xbs
+#### x-顶点zizhiba （仅改名，把名称中的括号去掉）
+	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DingDianzizhiba/x-DingDianzizhiba.xbs
 #### x-东山岁晚
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DongShanSuiWan/x-DongShanSuiWan.xbs
 #### x-fd80
