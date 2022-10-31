@@ -1,6 +1,6 @@
 自学练手玩的、禁传、禁fork
 =
-### 全部导入：（小说52，漫画7，索引2）
+### 全部导入：（小说53，漫画7，索引2）
 	https://ghproxy.com/https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说源：
