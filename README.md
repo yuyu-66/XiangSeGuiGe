@@ -5,6 +5,8 @@
 
 1.小说源：
 -
+#### x-小说馆
+	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XiaoShuoGuan/x-XiaoShuoGuan.xbs
 #### x-棉花糖
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/MianHuaTang/x-MianHuaTang.xbs
 #### x-御书网（修复正常搜索，但因软件bug发现页不可搜索）
