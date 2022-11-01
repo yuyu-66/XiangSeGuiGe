@@ -5,6 +5,8 @@
 
 1.小说源：
 -
+#### x-小说路上（修复）
+	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XiaoShuoLuShang/x-XiaoShuoLuShang.xbs
 #### x-小说馆
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XiaoShuoGuan/x-XiaoShuoGuan.xbs
 #### x-棉花糖
@@ -101,8 +103,6 @@
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/ShuMiLou/x-ShuMiLou.xbs
 #### x-天天看
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/TianTianKan/x-TianTianKan.xbs
-#### x-小说路上（正文丢字修复，搜索挂了）
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XiaoShuoLuShang/x-XiaoShuoLuShang.xbs
 #### x-玄幻文学 (梯，搜索挂了)
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XuanHuanWenXue/x-XuanHuanWenXue.xbs
 #### x-一读小说
