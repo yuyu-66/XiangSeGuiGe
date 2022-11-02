@@ -1,6 +1,6 @@
 自学练手玩的、禁传、禁fork
 =
-### 全部导入：（小说53，漫画7，索引2）
+### 全部导入：（小说53，漫画7，索引3）
 	https://ghproxy.com/https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说源：
@@ -116,8 +116,10 @@
 -
 #### x-微信读书（只能看评论用）
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/sy/WeiXinDuShu/x-WeiXinDuShu.xbs
-#### x-优书网（只能看评论用）
+#### x-优书网（只能看评论用，书单详情搞不定）
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/sy/YouShuWang/x-YouShuWang.xbs
+#### x-追书神器（只能看评论用，书单详情搞不定所以未作书单）
+	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/sy/ZhuiShuShenQi/x-ZhuiShuShenQi.xbs
 
 3.漫画源：
 -
