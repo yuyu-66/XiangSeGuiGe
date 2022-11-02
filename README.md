@@ -33,7 +33,7 @@
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/FanQieXiaoShuo/x-FanQieXiaoShuo.xbs
 #### x-全本小说网
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/QuanBenXiaoShuoWang/x-QuanBenXiaoShuoWang.xbs
-#### x-文库8
+#### x-文库8（登录或加cookie使用）
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/WenKu8/x-WenKu8.xbs
 #### x-同人小说网
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/TongRenXiaoShuoWang/x-TongRenXiaoShuoWang.xbs
