@@ -5,6 +5,8 @@
 
 1.小说源：
 -
+#### x-海棠书屋（目录读取很慢）
+	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/HaiTangShuWu/x-HaiTangShuWu.xbs
 #### x-小说路上（修复）
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XiaoShuoLuShang/x-XiaoShuoLuShang.xbs
 #### x-小说馆
