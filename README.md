@@ -5,6 +5,8 @@
 
 1.小说源：
 -
+#### x-69书吧 (梯，修复不能搜全名)
+	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/69ShuBa/x-69ShuBa.xbs
 #### x-海棠书屋（目录加载很慢）
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/HaiTangShuWu/x-HaiTangShuWu.xbs
 #### x-小说路上（修复）
@@ -63,8 +65,6 @@
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/56ShuKu/x-56ShuKu.xbs
 #### x-60文学
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/60WenXue/x-60WenXue.xbs
-#### x-69书吧 (梯)
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/69ShuBa/x-69ShuBa.xbs
 #### x-阿迪夫小说
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/ADiFuXiaoShuo/x-ADiFuXiaoShuo.xbs
 #### x-爱好中文PC版 
