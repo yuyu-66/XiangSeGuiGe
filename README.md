@@ -1,10 +1,12 @@
 自学练手玩的、禁传、禁fork
 =
-### 全部导入：（小说53，漫画7，索引3）
+### 全部导入：（小说55，漫画7，索引3）
 	https://ghproxy.com/https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说源：
 -
+#### x-玄幻文学 (梯，修复)
+	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XuanHuanWenXue/x-XuanHuanWenXue.xbs
 #### x-思兔 (梯)
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/SiTu/x-SiTu.xbs
 #### x-69书吧 (梯，修复不能搜全名)
@@ -107,8 +109,6 @@
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/ShuMiLou/x-ShuMiLou.xbs
 #### x-天天看
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/TianTianKan/x-TianTianKan.xbs
-#### x-玄幻文学 (梯，搜索挂了)
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XuanHuanWenXue/x-XuanHuanWenXue.xbs
 #### x-一读小说
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YiDuXiaoShuo/x-YiDuXiaoShuo.xbs
 #### x-趣书网
